@@ -1,0 +1,6 @@
+ooty=7500
+coorg=5741
+leh=11480
+araku=2990
+mahabaleshwar=4439
+Munnar=5026
